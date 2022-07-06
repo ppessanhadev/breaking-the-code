@@ -1,7 +1,8 @@
+import HeroSection from './components/HeroSection';
 import './styles/GlobalStyles.scss';
 
-function App() {
-  return <h1>Starting new react project</h1>;
+function LandingPage() {
+  return <HeroSection />;
 }
 
-export default App;
+export default LandingPage;
