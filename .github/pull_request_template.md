@@ -1,5 +1,5 @@
 ### Acompanhamento pelo Jira
-[BC-](https://breaking-the-code.atlassian.net/browse/BC-)
+- [BC-](https://breaking-the-code.atlassian.net/browse/BC-)
 
 ### O que foi feito?
  - Implementado tanana
