@@ -4,6 +4,7 @@ import styles from './styles.module.scss';
 export default function HeroSection() {
   return (
     <>
+    <div/>
       <section className={styles.backgroundImage} />
       <section className={styles.hero}>
         <header className={styles.heroHeader}>
