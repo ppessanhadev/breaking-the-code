@@ -20,7 +20,7 @@ export default function HeroSection() {
 
         <h1>The best products start with Figma</h1>
         <h2>Most calendars are designed for teams. Slate is designed for freelancers</h2>
-        <button type="button">Try for free</button>
+        <button type="button">Try For Free</button>
       </section>
     </>
   );
