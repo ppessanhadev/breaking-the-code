@@ -1,6 +1,11 @@
 @import '../../styles/Variables.scss';
 
-.hero {
+.hero { 
+  background-image: url('../../assets/hero-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
   h1,
   h2 {
     color: $white-100;
