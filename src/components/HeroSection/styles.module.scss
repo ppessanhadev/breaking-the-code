@@ -1,6 +1,11 @@
 @import '../../styles/Variables.scss';
 
-.hero {
+.hero { 
+  background-image: url('../../assets/hero-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
   h1,
   h2 {
     color: $white-100;
@@ -15,11 +20,17 @@
   }
 
   button {
+    
+
+    font-weight: 400;
+    font-size: 20px;
     display: block;
-    padding: 12px;
-    font-size: 24px;
-    color: wheat;
-    background-color: blue;
+    padding: 16px 64px;
+    font-size:20px;
+    color:#FFFFFF;
+    border-style:none;
+    background-color:#2091f9;
+    border-radius: 35px;
     margin: auto;
   }
 }
